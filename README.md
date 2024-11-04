@@ -8,10 +8,7 @@
 ## About Me
 A Computer Science Graduate with a strong passion for Backend Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions. I also love working with Unity, on which i had created a few projects with VR and 3D. 
 
-
-<details>
- <summary><h4> <img align="center" src="https://github.com/Marwa1902/Marwa1902/blob/readME/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
-
+### Tech Stack
   #### Languages
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,25 +32,29 @@ A Computer Science Graduate with a strong passion for Backend Developer with a s
 
   #### Tools
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-</details>
 
 
-<details>
-  <summary><h4> <img align="center" src="https://github.com/[Marwa1902]/[Marwa1902]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
- 
+
+### Projects
  #### <a href="https://github.com/Marwa1902/Twitter-and-OpenAI">Twitter and OpenAI</a>
 
-  #### <a href="https://github.com/Marwa1902/Social-Media-Platform">[Social-Media-Platform]</a>
+ #### <a href="https://github.com/Marwa1902/Social-Media-Platform">Social-Media-Platform</a>  
+ 
+ #### <a href="https://github.com/Marwa1902/FoodWasteManagementApp"> Food Waste Management App</a>
 
-</details>
+   ### <a href="https://github.com/Marwa1902/FoodWasteManagement"> GUI of Food Waste Management APP </a>
+ 
+ #### <a href="https://github.com/Marwa1902/VR-Witnessing-Gaza-A-Walk-Through-Sorrow"> VR on Unity</a>
+ 
+ #### <a href="https://github.com/Marwa1902/ChatApp">Antique ChatApp</a>
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/[Marwa1902]/[Marwa1902]/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
-  <p>
+ #### <a href="https://github.com/Marwa1902/OnlineStoreApp"> Online Store </a>
+
+ 
+
+
+### Contact mE
+ <p>
     <i>You can reach out to me via</i>
-    <a href="mailto:[blushiya007@gmail.com]">
-      <img align="center" src="https://github.com/user-attachments/assets/870bcbe8-d709-4c7b-9043-adb4d4e436ad
-" width="100"/>
-    </a>
-  </p>
-</details>
+    <a href="mailto:[blushiya007@gmail.com]"> blushiya007@gmail.com </a>
+</p>
