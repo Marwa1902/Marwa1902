@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Marwa1902
-- 👀 I’m interested in Programming, Gaming and much more.
+
+- 👋 Hi, I’m Marwa [ @Marwa1902 ]
+- 🌱 Graduate of Computer Science.
+- 👀 I’m interested in Programming, Designing and Draweing, Gaming , Reading Books and Mangas, Watching Movies, TV Shows and Animes.
+- 💞️ I’m looking to collaborate on a Unity (C#), frontend or backend(Javascript) project.
 
 
 
