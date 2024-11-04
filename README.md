@@ -40,10 +40,9 @@ A Computer Science Graduate with a strong passion for Backend Developer with a s
 
  #### <a href="https://github.com/Marwa1902/Social-Media-Platform">Social-Media-Platform</a>  
  
- #### <a href="https://github.com/Marwa1902/FoodWasteManagementApp"> Food Waste Management App</a>
+ #### <a href="https://github.com/Marwa1902/FoodWasteManagementApp"> Food Waste Management App</a> 
+   ##### <a href="https://github.com/Marwa1902/FoodWasteManagement"> GUI of Food Waste Management APP </a>
 
-   ### <a href="https://github.com/Marwa1902/FoodWasteManagement"> GUI of Food Waste Management APP </a>
- 
  #### <a href="https://github.com/Marwa1902/VR-Witnessing-Gaza-A-Walk-Through-Sorrow"> VR on Unity</a>
  
  #### <a href="https://github.com/Marwa1902/ChatApp">Antique ChatApp</a>
@@ -53,7 +52,7 @@ A Computer Science Graduate with a strong passion for Backend Developer with a s
  
 
 
-### Contact mE
+### Contact me
  <p>
     <i>You can reach out to me via</i>
     <a href="mailto:[blushiya007@gmail.com]"> blushiya007@gmail.com </a>
