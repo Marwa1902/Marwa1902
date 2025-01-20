@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello <img src="https://media.giphy.com/media/oje6kPRIef6Gk/giphy.gif?cid=ecf05e47i1gubph0o82y6426sx3zy6uvmlh3rg8pcsr3sh42&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="28px"/>, I'm Marwa</h1>
+<h1 align="center">Hello, I'm Marwa</h1>
 
 <div align="center">
  <img alt="GIF" src="https://media.giphy.com/media/MkuD2E3CJM9LG/giphy.gif?cid=ecf05e47i1gubph0o82y6426sx3zy6uvmlh3rg8pcsr3sh42&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
